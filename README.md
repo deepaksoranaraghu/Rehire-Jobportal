@@ -108,7 +108,7 @@ job-portal/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/shubham79a/job-portal.git
+git clone 
 cd job-portal
 ```
 
